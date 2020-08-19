@@ -975,14 +975,9 @@ img{
   margin-right: 5px;
 }
 
-#contact_page_template .title::after{
-  content: '';
-  display: block;
-  width: 80px;
-  height: 2px;
-  background: #000;
-  margin-top: 5px;
-}
+#contact_page_template ul li{
+  list-style-type: none;
+ }
 
 #contact_page_template .btn{
  padding: 8px 50px;
